@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "active_problem": "recursive-subset-enumeration",
+  "stage": "learner_fix",
+  "source_url": null,
+  "chapter": "递归枚举（待确认）",
+  "reported_verdict": "未提供",
+  "pending_action": "将递归终止条件改为 cur == n + 1，并在输出后立即 return，然后用 n=3 运行。",
+  "updated_at": "2026-09-16"
+}
